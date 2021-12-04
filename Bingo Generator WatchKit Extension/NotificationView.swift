@@ -9,12 +9,13 @@ import SwiftUI
 
 struct NotificationView: View {
     var body: some View {
-        Text("Hello, World!")
+        Text("Hello, BINGO!")
     }
 }
-
+/*
 struct NotificationView_Previews: PreviewProvider {
     static var previews: some View {
         NotificationView()
     }
 }
+*/

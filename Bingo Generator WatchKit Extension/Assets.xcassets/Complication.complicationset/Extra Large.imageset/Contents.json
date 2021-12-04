@@ -1,15 +1,18 @@
 {
   "images" : [
     {
+      "filename" : "XLarge203.png",
       "idiom" : "watch",
       "scale" : "2x"
     },
     {
+      "filename" : "XLarge182.png",
       "idiom" : "watch",
       "scale" : "2x",
       "screen-width" : "<=145"
     },
     {
+      "filename" : "XLarge224.png",
       "idiom" : "watch",
       "scale" : "2x",
       "screen-width" : ">183"

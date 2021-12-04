@@ -1,10 +1,12 @@
 {
   "images" : [
     {
+      "filename" : "GLRect300x94.png",
       "idiom" : "watch",
       "scale" : "2x"
     },
     {
+      "filename" : "GLRect342x108.png",
       "idiom" : "watch",
       "scale" : "2x",
       "screen-width" : ">183"
