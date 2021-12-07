@@ -4,7 +4,7 @@
 //
 //  Created by Tom Cavalli on 12/2/21.
 //
-
+/*
 import WatchKit
 import SwiftUI
 import UserNotifications
@@ -31,3 +31,4 @@ class NotificationController: WKUserNotificationHostingController<NotificationVi
         // Populate your dynamic notification interface as quickly as possible.
     }
 }
+ */
