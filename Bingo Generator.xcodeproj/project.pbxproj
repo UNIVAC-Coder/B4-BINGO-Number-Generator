@@ -12,8 +12,6 @@
 		E2BE51B4275971B600A484B0 /* Bingo Generator WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E2BE51B3275971B600A484B0 /* Bingo Generator WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		E2BE51B9275971B600A484B0 /* Bingo_GeneratorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BE51B8275971B600A484B0 /* Bingo_GeneratorApp.swift */; };
 		E2BE51BB275971B600A484B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BE51BA275971B600A484B0 /* ContentView.swift */; };
-		E2BE51BD275971B600A484B0 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BE51BC275971B600A484B0 /* NotificationController.swift */; };
-		E2BE51BF275971B600A484B0 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BE51BE275971B600A484B0 /* NotificationView.swift */; };
 		E2BE51C1275971B600A484B0 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BE51C0275971B600A484B0 /* ComplicationController.swift */; };
 		E2BE51C3275971B700A484B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2BE51C2275971B700A484B0 /* Assets.xcassets */; };
 		E2BE51C6275971B700A484B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2BE51C5275971B700A484B0 /* Preview Assets.xcassets */; };
@@ -68,8 +66,6 @@
 		E2BE51B3275971B600A484B0 /* Bingo Generator WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Bingo Generator WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2BE51B8275971B600A484B0 /* Bingo_GeneratorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bingo_GeneratorApp.swift; sourceTree = "<group>"; };
 		E2BE51BA275971B600A484B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E2BE51BC275971B600A484B0 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
-		E2BE51BE275971B600A484B0 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 		E2BE51C0275971B600A484B0 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
 		E2BE51C2275971B700A484B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2BE51C5275971B700A484B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -120,8 +116,6 @@
 			children = (
 				E2BE51B8275971B600A484B0 /* Bingo_GeneratorApp.swift */,
 				E2BE51BA275971B600A484B0 /* ContentView.swift */,
-				E2BE51BC275971B600A484B0 /* NotificationController.swift */,
-				E2BE51BE275971B600A484B0 /* NotificationView.swift */,
 				E2BE51C0275971B600A484B0 /* ComplicationController.swift */,
 				E2BE51C2275971B700A484B0 /* Assets.xcassets */,
 				E2BE51C7275971B700A484B0 /* Info.plist */,
@@ -266,11 +260,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2BE51BD275971B600A484B0 /* NotificationController.swift in Sources */,
 				E2BE51BB275971B600A484B0 /* ContentView.swift in Sources */,
 				E2BE51C1275971B600A484B0 /* ComplicationController.swift in Sources */,
 				E2BE51B9275971B600A484B0 /* Bingo_GeneratorApp.swift in Sources */,
-				E2BE51BF275971B600A484B0 /* NotificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
