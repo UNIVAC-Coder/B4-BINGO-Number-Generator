@@ -5,4 +5,4 @@ This is a basic app using the Apple Watch which displays random BINGO numbers by
 In the future, I will code a histogram and display a history of numbers generated.
 
 
-Apple and Apple Watch are trademarks of Apple, Inc., registered in the U.S. and other countriesw and regions.
+Apple and Apple Watch are trademarks of Apple, Inc., registered in the U.S. and other countries and regions.
